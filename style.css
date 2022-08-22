@@ -64,6 +64,7 @@ img {
   border-radius: 10px;
   margin: 0 20px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 /* Section 2 */
 .image-dog {
@@ -88,4 +89,25 @@ img {
 .box1 {
   max-width: 200px;
   margin-left: 15px;
+}
+
+/* Section 03 */
+span {
+  display: block;
+  font-weight: bolder;
+  color: #000;
+  font-style: initial;
+  text-align: end;
+}
+.quote {
+  background-color: #e5e7eb;
+  width: 100%;
+}
+.quote-inspiration {
+  max-width: 800px;
+  margin: 80px auto;
+  font-size: 24px;
+  padding: 100px 0;
+  font-style: italic;
+  color: #1f2937;
 }
