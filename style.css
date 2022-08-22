@@ -111,3 +111,46 @@ span {
   font-style: italic;
   color: #1f2937;
 }
+/* Call to action */
+.call-to-action {
+  display: inline-block;
+  background-color: #3882f6;
+  height: auto;
+  padding: 40px;
+  margin: 50px;
+}
+.cta {
+  padding: 40px auto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+}
+.cta--btn {
+  display: flex;
+  justify-content: center;
+  column-gap: 80px;
+}
+.cta-paragraf {
+  color: #fff;
+  font-size: 16px;
+}
+
+.btn-second {
+  border: 2px solid#fff;
+  padding: 5px 40px;
+  text-transform: capitalize;
+  font-weight: 600;
+  position: relative;
+  bottom: 15px;
+}
+.call-to-action {
+  margin-left: 80px;
+}
+/* FOOTER */
+.copyright {
+  text-align: center;
+  color: #fff;
+  background-color: #172937;
+  padding: 20px;
+  height: 70px;
+}
